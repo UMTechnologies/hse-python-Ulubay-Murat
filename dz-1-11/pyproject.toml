@@ -1,0 +1,10 @@
+[project]
+name = "Homework11"
+description = "Python для аналитиков ИБ: поиск негативных событий"
+version = "1.0.0"
+requires-python = ">=3.10"
+dependencies = [
+    "pandas",
+    "matplotlib",
+    "seaborn",
+]

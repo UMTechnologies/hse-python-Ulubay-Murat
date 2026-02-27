@@ -1,0 +1,5 @@
+Event,Count,Log_Type
+Эскалация привилегий (4703),12,WinEventLog
+Запуск PowerShell (4688),1,WinEventLog
+Подозрительный DNS: ajd92jd9d.com,1,DNS
+Подозрительный DNS: c2.maliciousdomain.com,1,DNS
