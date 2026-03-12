@@ -1,0 +1,4 @@
+IP Address,Threat Score,Status
+185.20.10.5,15,Critical Threat
+8.8.8.8,0,Safe
+103.45.67.89,8,Critical Threat

@@ -1,0 +1,17 @@
+[
+    {
+        "IP Address":"185.20.10.5",
+        "Threat Score":15,
+        "Status":"Critical Threat"
+    },
+    {
+        "IP Address":"8.8.8.8",
+        "Threat Score":0,
+        "Status":"Safe"
+    },
+    {
+        "IP Address":"103.45.67.89",
+        "Threat Score":8,
+        "Status":"Critical Threat"
+    }
+]

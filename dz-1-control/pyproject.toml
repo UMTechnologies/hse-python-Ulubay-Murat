@@ -1,0 +1,11 @@
+[project]
+name = "Homework13"
+description = "Управление системами и ресурсами защиты информации с помощью Python"
+version = "1.0.0"
+requires-python = ">=3.10"
+dependencies = [
+    "requests",
+    "pandas",
+    "matplotlib",
+    "seaborn"
+]

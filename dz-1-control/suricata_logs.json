@@ -1,0 +1,4 @@
+{"timestamp": "2023-10-01T12:00:00", "event_type": "alert", "src_ip": "192.168.23.15", "dest_ip": "103.45.67.89", "alert": {"signature": "Suspicious DNS traffic"}}
+{"timestamp": "2023-10-01T12:05:00", "event_type": "alert", "src_ip": "192.168.23.20", "dest_ip": "185.20.10.5", "alert": {"signature": "Malware C2 communication"}}
+{"timestamp": "2023-10-01T12:10:00", "event_type": "alert", "src_ip": "192.168.23.15", "dest_ip": "8.8.8.8", "alert": {"signature": "Normal DNS query"}}
+{"timestamp": "2023-10-01T12:15:00", "event_type": "alert", "src_ip": "192.168.23.50", "dest_ip": "185.20.10.5", "alert": {"signature": "Malware C2 communication"}}
